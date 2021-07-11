@@ -1,4 +1,5 @@
 # Buscador_gifs
+![gifs](https://github.com/EmilcyFelipe/Saga_flutter_buscador_gifs/blob/master/buscador_gifs.png)
 
 ## Agrupamento Saga Flutter
     5º app da minha saga de aprendizagem flutter
