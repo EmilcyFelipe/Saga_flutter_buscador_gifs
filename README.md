@@ -1,16 +1,11 @@
-# buscador_gifs
+# Buscador_gifs
 
-A new Flutter project.
+## Agrupamento Saga Flutter
+    5º app da minha saga de aprendizagem flutter
 
-## Getting Started
+## Sobre o projeto
+    Este app, buscador de gifs, é um projeto simples, porém abrange diversos recursos na sua execução,
+    como a utilização da API do giphy, navegação de telas e captação de eventos na tela.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Funcionalidade
+    Para utilizar o aplicativo o usuário pode realizar a pesquisa, e como resultado terá uma quantidade de resultados limitada que poderá carregar mais resultados se assim o desejar. Inicialmente são apresentados os melhores gifs do momento fornecidos pela API.
